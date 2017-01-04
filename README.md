@@ -4,6 +4,6 @@ Small game from a Unity-course on lynda.com by Jesse Freeman. Great course calle
 
 A running web version of the game can be found [here](http://www.parnes.com/games/SuperZombieRunner/). 
 
-![animation of the game](http://www.parnes.com/games/SuperZombieRunner.gif "SuperZombieRunner")
+[More information about the game in Swedish](http://www.parnes.com/blog/index.php/2017/01/04/superzombierunner-spel/) 
 
 /Peter, peter@parnes.com 
