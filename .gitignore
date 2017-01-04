@@ -4,13 +4,13 @@
 /[Bb]uilds/
 /[Oo]bj/
 
-*.csproj 
+*.csproj
 *.unityproj
 *.sln
 *.suo
 *.tmp
 *.user
-*.userprefs 
+*.userprefs
 *.pidb
 *.booproj
 
